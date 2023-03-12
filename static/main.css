@@ -1,0 +1,126 @@
+.background {
+    background: #EBE9EA;
+ }
+
+.art-title {
+    text-align: center;
+}
+
+ .board {
+    display: flex;
+    padding: 30 px;
+    width: 100%;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px; 
+ }
+         
+.column {
+    float: left;
+    width: 33.33%;
+    margin-right: 30px;
+}
+
+
+.column-title {
+    font-family: Optima, sans-serif;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #09142D;
+    user-select: none;
+    text-align: center;
+}
+
+.column-fill {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Optima, sans-serif;
+    font-size: 16px;
+    color: #09142D;
+    background: #EBE9EA;
+    border: solid;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.item-input {
+    width: 100%;
+    padding: 20px 15px;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.add-task-form {
+    width: 80%;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #09142D;
+    border: solid;
+    border-radius: 5px;
+    cursor: text;
+    text-align: left;
+    margin-right: 2%;
+}
+
+.add-task-button {
+    width: 12%;
+    padding: 2%;
+    font-family: Optima, sans-serif;
+    font-size: 16px;
+    color: #09142D;
+    background: #AA5661;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    float: right;
+}
+
+.button-update {
+    width: 33.33%;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #09142D;
+    background: #dba1a8;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center; 
+}
+
+.button-update:not(:last-child) {
+    margin-right: 30px;
+}
+
+.button-remove {
+    width: 33.33%;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #09142D;
+    background: #AA5661;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.updates {
+    display: flex;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
