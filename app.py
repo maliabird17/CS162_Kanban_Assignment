@@ -96,4 +96,4 @@ def delete_task(task_id):
 if __name__ == "__main__":
     app.app_context().push()
     db.create_all()
-    app.run(debug=True, port = 7000) # run app using port 7000 
+    app.run(debug=True, port = 5000) # run app using port 5000 

@@ -6,6 +6,10 @@ See the video linked here for an overview of the web application's functionality
 
 <a href="https://ibb.co/gDgmKss"><img src="https://i.ibb.co/9qYc5RR/Screenshot-2023-03-12-at-13-43-30.png" alt="Screenshot-2023-03-12-at-13-43-30" border="0"></a>
 
+Run the web application at: http://127.0.0.1:5000/
+
+An online repository of all code used in this assignment can be found here: https://github.com/maliabird17/CS162_Kanban_Assignment 
+
 ## **Code Overview:**
 
 The code from this project is organized within this repo into the following categories and files (excluding this README):
