@@ -19,7 +19,6 @@ The code from this project is organized within this repo into the following cate
     - `main.css`: CSS code used as the style sheet
 
 - `templates`: this folder contains all HTML files used for the web applications including: 
-    - `base.html`: for all basic specifications of the HTML file (including head)
     - `index.html`: design of the kanban board
 
 - `app.py`: python code utilizing Flask and SQL to create kanban application's functionality 
