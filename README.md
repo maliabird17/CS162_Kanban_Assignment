@@ -2,7 +2,7 @@
 
 ## **Kanban Demo:**
 
-See the video linked here for an overview of the web application's functionality: 
+See the video linked here for an overview of the web application's functionality: https://youtu.be/f9CdpHKQZzQ 
 
 <a href="https://ibb.co/gDgmKss"><img src="https://i.ibb.co/9qYc5RR/Screenshot-2023-03-12-at-13-43-30.png" alt="Screenshot-2023-03-12-at-13-43-30" border="0"></a>
 
